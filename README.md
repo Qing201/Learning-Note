@@ -1,1 +1,1 @@
-# Learning-Note
+# Study Note
